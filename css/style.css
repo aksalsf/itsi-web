@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+#subjudul {
+  text-align: left;
+  color: red;
+}
+
+.dark-mode {
+  background: black;
+  color: white;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 800;
+}
