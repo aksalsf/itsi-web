@@ -1,21 +1,10 @@
-h1 {
-  text-align: center;
+.flex {
+  display: flex;
+  justify-content: space-between;
 }
 
-#subjudul {
-  text-align: left;
-  color: red;
-}
-
-.dark-mode {
-  background: black;
-  color: white;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.bold {
-  font-weight: 800;
+.nav-menu {
+  width: 320px;
+  display: flex;
+  justify-content: space-around;
 }
